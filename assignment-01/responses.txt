@@ -1,0 +1,8 @@
+How is the web different than the internet?
+-The Internet is a very large packet network.
+Briefly describe how the internet works.
+- It works as a giant web so that we are all interconnected , was created as a government project. 
+What is a directory, and what is its relationship to files?
+- A directory is a library and the files are like the books in that library. 
+Why is using a VCS beneficial?
+-it allows you to be more descriptive when saving a file 
