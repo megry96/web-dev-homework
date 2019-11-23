@@ -10,3 +10,10 @@ be able to understand html more
 -I want to get better at understanding files.
 
 -I want to become better at coding in general.
+
+
+[Google Search](https://www.google.com/)
+
+[My Responses file](./Responses.txt)
+
+![My Screenshot](./images/Screenshot2.png)
