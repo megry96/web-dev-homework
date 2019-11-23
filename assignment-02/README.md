@@ -11,5 +11,5 @@
 
  [My Responses File](./responses.txt)
 
- ![My Screenshot](./images/ScreenShot11.png)
+ ![My ScreenShot](./images/ScreenShot11.png)
  
