@@ -11,4 +11,4 @@
 
  [My Responses File](./responses.txt)
 
- [My Screenshot](./Desktop/screenshot.png)
+ [My Screenshot](./images/screenshot.png)
