@@ -5,6 +5,8 @@
 be able to understand html more
 
 
--I hope to learn more about html and the purpose of it
--I want to get better at understanding files
--I want to become better at coding in general
+-I hope to learn more about html and the purpose of it.
+
+-I want to get better at understanding files.
+
+-I want to become better at coding in general.
