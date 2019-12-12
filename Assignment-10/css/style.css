@@ -1,0 +1,33 @@
+
+/* Page-Wide*/
+
+body{
+background-color: #2F4F4F;
+color: white;
+padding: 5px;
+ont-family: 'Noto Sans KR', sans-serif;
+
+
+}
+
+
+/*Paragraph Content*/
+.text{
+
+  background-color: 		#000000;
+  color: white;
+  padding : 5px;
+}
+p::first-letter{
+
+font-family: 'Dancing Script', cursive;
+font-size: 3em;
+font-weight: 700;
+
+}
+a{
+background-color; rgb(11,44,126);
+
+
+}
+/* Read more!*/
