@@ -1,0 +1,28 @@
+
+   h1 {
+color: black;
+
+  }
+  .square {
+    width:100%;
+    height: 400px;
+  }
+#pink{
+  background-color: #FF377B;
+}
+
+#blue {
+
+  background-color: #3AB1FC;
+
+}
+
+
+#orange{
+  background-color: #FFA500;
+}
+
+#yellow{
+  background-color: #FFFF00;
+}
+/*hello*/
