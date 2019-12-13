@@ -8,3 +8,6 @@ Learning the different colors was fun and how to use those!
 
 
 Free Response: Summarize your work cycle for this assignment.
+
+My work cycle was fun for this assignment because I got to use things I've learn 
+throughout this course!
